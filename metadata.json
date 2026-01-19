@@ -1,0 +1,7 @@
+{
+  "name": "GlucoCare AI",
+  "description": "An intelligent diabetes management app featuring AI nutritional guidance, remote glucose monitoring, and clinical connections.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
